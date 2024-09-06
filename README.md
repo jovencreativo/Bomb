@@ -13,7 +13,7 @@ $ apt upgrade
 $ apt install python
 $ apt install python2
 $ apt install git
-$ git clone https://github.com/T34mV18rs/V18rs-Bomb.git
+$ git clone https://github.com/jovencreativo/Bomb.git
 $ cd V18rs-Bomb
 $ python2 V18rs-Bomb.py
 ```
