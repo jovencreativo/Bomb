@@ -7,16 +7,16 @@
 # How to Install?
 
 **Open Your `Termux` & Write This Commands In Your Terminal**
-```
-$ apt update 
-$ apt upgrade
-$ apt install python
-$ apt install python2
-$ apt install git
-$ git clone https://github.com/jovencreativo/Bomb.git
-$ cd V18rs-Bomb
-$ python2 V18rs-Bomb.py
-```
+
+- $ `apt update` 
+- $ `apt upgrade`
+- $ `apt install python`
+- $ `apt install python2`
+- $ `apt install git`
+- $ `git clone https://github.com/jovencreativo/Bomb.git`
+- $ `cd V18rs-Bomb`
+- $ `python2 V18rs-Bomb.py`
+
 **Done! Now Follow Tool Steps And Start Bombing!**
 
 ## This Tool Is Created By Mr.BL4Z3
