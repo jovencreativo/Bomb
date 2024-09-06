@@ -1,4 +1,4 @@
-# What is V18rs-Bomb?
+# What is Bomb?
 **This is a SMS Bombing Tool from  `T34m V18rs`. You can send a lot of spam messages and take fun with your friends. But this is only for Bangladeshi users, not for other's country.**
 
 # WARNING ⚠️
